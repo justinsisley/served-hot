@@ -1,0 +1,19 @@
+{
+  "name": "served-hot",
+  "version": "0.0.1",
+  "description": "Hot-reloading for Node.js servers",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinsisley/served-hot.git"
+  },
+  "author": "Justin Sisley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinsisley/served-hot/issues"
+  },
+  "homepage": "https://github.com/justinsisley/served-hot#readme"
+}
