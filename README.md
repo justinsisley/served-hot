@@ -18,7 +18,9 @@
 
 __served-hot__ brings the hot-reloading you know and love from the client-side to Express servers. It can greatly improve your development experience across the entire stack.
 
-__It's not a pure drop-in solution__ (yet), and your mileage may vary depending on how you've set up your Express server. Nevertheless, this documentation will walk you through the setup and configuration it was built to function with. Additionally, the code behind __served-hot__ is quite simple, and I encourage you to dig in and steal it as necessary in order to suit your specific needs.
+__It's not a pure drop-in solution__ (yet), and your mileage may vary depending on how you've set up your Express server. Nevertheless, this documentation will walk you through the setup and configuration it was built to function with.
+
+Additionally, the code behind __served-hot__ is quite simple, and I encourage you to dig in and steal it as necessary in order to suit your specific needs.
 
 ---
 

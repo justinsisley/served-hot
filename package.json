@@ -1,6 +1,6 @@
 {
   "name": "served-hot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Server-side hot-reloading for Express",
   "main": "index.js",
   "repository": {
