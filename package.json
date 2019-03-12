@@ -1,6 +1,6 @@
 {
   "name": "served-hot",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Server-side hot-reloading for Express",
   "main": "index.js",
   "repository": {
@@ -15,6 +15,7 @@
   "homepage": "https://github.com/justinsisley/served-hot#readme",
   "dependencies": {
     "app-root-path": "2.1.0",
+    "callsite": "1.0.0",
     "chokidar": "2.1.2",
     "emoji-fire": "1.3.0"
   },
